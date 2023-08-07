@@ -16,10 +16,8 @@ O movimento do personagem Mario é controlado pelo JavaScript. Isso envolve a de
 
 O JavaScript é responsável por detectar colisões entre o personagem Mario e outros elementos do jogo, como inimigos, blocos e moedas. Isso pode envolver cálculos de coordenadas, verificação de sobreposição de elementos e reações apropriadas, como diminuir a vida do Mario ou coletar moedas.
 
-### 4. Pontuação e progressão
 
-O JavaScript também gerencia a pontuação do jogador e a progressão do jogo. Isso pode incluir o aumento da pontuação ao coletar moedas, atualizar o número de vidas do jogador, exibir mensagens de vitória ou derrota e permitir a passagem para o próximo nível.
+<img width="960" alt="gameover" src="https://github.com/Guilhermefonseca2021/mario-world/assets/92196697/a360c2ff-6dbb-4fe4-8dc6-6cfacaf6664a">
 
-### 5. Lógica dos inimigos
+<img width="767" alt="gamerun" src="https://github.com/Guilhermefonseca2021/mario-world/assets/92196697/e6c7bf63-3f17-4fdb-8c9e-c6d5651b4cbd">
 
-Os inimigos no jogo Mario World também são controlados pelo JavaScript. Isso envolve a definição de suas rotas de movimento, velocidade, detecção de colisões com o personagem Mario e reações apropriadas, como eliminar o Mario ou diminuir sua vida
