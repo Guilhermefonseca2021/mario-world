@@ -16,6 +16,8 @@ O movimento do personagem Mario é controlado pelo JavaScript. Isso envolve a de
 
 O JavaScript é responsável por detectar colisões entre o personagem Mario e outros elementos do jogo, como inimigos, blocos e moedas. Isso pode envolver cálculos de coordenadas, verificação de sobreposição de elementos e reações apropriadas, como diminuir a vida do Mario ou coletar moedas.
 
+<a href="https://mario-world-phi.vercel.app/">jogue agora!</a>
+
 
 <img width="960" alt="gameover" src="https://github.com/Guilhermefonseca2021/mario-world/assets/92196697/a360c2ff-6dbb-4fe4-8dc6-6cfacaf6664a">
 
